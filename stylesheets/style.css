@@ -1,0 +1,62 @@
+@import url(http://fonts.googleapis.com/css?family=News+Cycle);
+
+body {
+	background-image:url('../images/background.jpg');
+	
+}
+
+.header {
+	background-color: #fcfcfc;
+	height: 63px;
+	width:1600px;
+	margin:-10px 0 0 -10px;
+}
+
+.button {
+	padding: 20px 10px 20px 10px;
+	float:left;
+	color:black;
+	font-family:"news cycle";
+}
+
+.button:hover {
+	color:white;
+	background-color:black;
+}
+
+.logo {
+	float:left;
+	margin:15px 450px 0 200px;
+}
+
+.our-work {
+	margin: 40px 0 0 200px;
+	color:white;
+	font-family:"news cycle";
+}
+
+.red {
+	color:red;
+}
+
+.row {
+	margin: 0px 0 0 200px;
+}
+
+.portfolio {
+	width:300px;
+	height:auto;
+	float:left;
+	margin: 25px 25px 0 0px;
+}
+
+.subtitle {
+	background-color:#ffffff;
+	float:left;
+	width:300px;
+	height:30px;
+	text-align:center;
+	margin: 0 25px 0 0px;
+	color:gray;
+	font-family: "news cycle";
+}
